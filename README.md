@@ -11,6 +11,6 @@ I'm a Software Engineering student at Swinburne University and an Intern Develop
 
 ## 🔭 Projects
 - **[BloonsTD](https://github.com/JulianCodespotiMYOB/BloonsTD)**: A tower defense game based on the popular Bloons TD franchise. Developed using C#.
-- **[FitnessTracker](https://github.com/JulianCodespotiMYOB/FitnessTracker)**: An application to track fitness activities and goals. Built C#, PostgreSQL database and deployed using AWS and Terraform
+- **[FitnessTracker](https://github.com/JulianCodespotiMYOB/FitnessTracker)**: An application to track fitness activities and goals. Developed using C#, PostgreSQL database and deployed using AWS and Terraform
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/juliancodespoti/).
